@@ -1,0 +1,1 @@
+answers_df.groupby(["ParentId"], as_index=False).max()
